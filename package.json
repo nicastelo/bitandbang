@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
-  "version": "1.3.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "nicastelo",
+  "version": "0.0.1",
+  "description": "A personal card for Nicolas Castellanos (@nicastelo)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "nicastelo": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/nicastelo/nicastelo.git"
   },
   "scripts": {
     "prepublish": "npm run build",
